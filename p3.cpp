@@ -10,7 +10,6 @@ for(int i=0;i<=tryTempt;i++)
     for(int j=0;j<=10;j++) {
         anyNum=rand()%100-j;
     } do {
-
         cout<<"Enter desired value: ";
         cin>>perGuess;
         tryTempt++;
